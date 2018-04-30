@@ -1,0 +1,17 @@
+{
+  "name": "training",
+  "version": "0.0.1",
+  "description": "training",
+  "main": "app.js",
+  "dependencies": {
+    "@antv/g2": "^3.0.8",
+    "@bone/bone-web-ui": "^1.0.0",
+    "@bone/bone-web-ui-dpl": "^1.0.0",
+    "@bone/iot-gateway": "^2.0.1",
+    "@bone/linkdevelop-sdk": "^0.1.5",
+    "@bone/web": "^0.1.0",
+    "bizcharts": "3.1.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
